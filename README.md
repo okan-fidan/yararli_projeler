@@ -1,2 +1,2 @@
 Bu depo eğitm amaçlı tasarlanmıştır.
-Python ile metinden sese çevirme uygulaması yapılmıştır.
+tahmin uygulamamız deneme sürümündedir.tahminler kesinlikle yatırm tavsiyesi değildir.Talebe göre para birimlerinin tamamının tahminini yapan bot yapmayı düşünüyorum.eğer isterseniz instagram adresimdeki ankete katılmayı unutmayın. 
